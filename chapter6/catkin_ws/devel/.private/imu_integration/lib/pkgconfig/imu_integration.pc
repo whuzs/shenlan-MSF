@@ -1,0 +1,8 @@
+prefix=/home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/.private/imu_integration
+
+Name: imu_integration
+Description: Description of imu_integration
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

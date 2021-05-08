@@ -1,0 +1,21 @@
+[35m[1mScanning dependencies of target utils[0m
+[  9%] [32mBuilding CXX object CMakeFiles/utils.dir/src/subscriber/imu_subscriber.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/utils.dir/src/subscriber/odom_subscriber.cpp.o[0m
+[ 27%] [32m[1mLinking CXX shared library /home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/.private/imu_integration/lib/libutils.so[0m
+[ 27%] Built target utils
+[35m[1mScanning dependencies of target generator_activity[0m
+[35m[1mScanning dependencies of target estimator_activity[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/generator_activity.dir/src/generator/activity.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/estimator_activity.dir/src/estimator/activity.cpp.o[0m
+[ 54%] [32m[1mLinking CXX shared library /home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/.private/imu_integration/lib/libgenerator_activity.so[0m
+[ 54%] Built target generator_activity
+[35m[1mScanning dependencies of target generator_node[0m
+[ 63%] [32m[1mLinking CXX shared library /home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/.private/imu_integration/lib/libestimator_activity.so[0m
+[ 63%] Built target estimator_activity
+[35m[1mScanning dependencies of target estimator_node[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/estimator_node.dir/src/estimator/node.cpp.o[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/generator_node.dir/src/generator/node.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable /home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/.private/imu_integration/lib/imu_integration/estimator_node[0m
+[100%] [32m[1mLinking CXX executable /home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/.private/imu_integration/lib/imu_integration/generator_node[0m
+[100%] Built target estimator_node
+[100%] Built target generator_node
