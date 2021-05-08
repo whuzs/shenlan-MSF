@@ -12,11 +12,11 @@ IMU数据仿真程序地址：https://github.com/Aceinna/gnss-ins-sim
 
 附加题：
 
-![image-20210421224805223](/home/bobododo/.config/Typora/typora-user-images/image-20210421224805223.png)
+![image-20210508162439093](../../images/image-20210508162439093.png)
 
 ## 1）及格
 
-![image-20210422215318952](/home/bobododo/.config/Typora/typora-user-images/image-20210422215318952.png)
+![image-20210508162504025](../../images/image-20210508162504025.png)
 
 中值法需要用到前后两相邻帧的信息，但是程序里用的是消息队列，所以设置两个索引号，0和1，索引imu_data_buffer得到相邻
 
@@ -88,7 +88,7 @@ void Activity::SavePoseTUM(const double &time, const Eigen::Matrix4d &pose, std:
 
 结果：
 
-![image-20210423101236563](/home/bobododo/.config/Typora/typora-user-images/image-20210423101236563.png)
+![image-20210508162527654](../../images/image-20210508162527654.png)
 
 ## 2）良好
 
@@ -106,7 +106,7 @@ velocity_delta = delta_t*linear_acc_curr; // 欧拉法
 
 结果：
 
-![image-20210423095929272](/home/bobododo/.config/Typora/typora-user-images/image-20210423095929272.png)
+![image-20210508162548498](../../images/image-20210508162548498.png)
 
 红色为groundtruth，蓝色为算法解算得到的轨迹，可以看出中值法精度更好。
 
