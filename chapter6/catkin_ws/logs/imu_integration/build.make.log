@@ -1,9 +1,0 @@
-[ 27%] Built target utils
-[35m[1mScanning dependencies of target estimator_activity[0m
-[ 45%] Built target generator_activity
-[ 54%] [32mBuilding CXX object CMakeFiles/estimator_activity.dir/src/estimator/activity.cpp.o[0m
-[ 72%] Built target generator_node
-[ 81%] [32m[1mLinking CXX shared library /home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/.private/imu_integration/lib/libestimator_activity.so[0m
-[ 81%] Built target estimator_activity
-[ 90%] [32m[1mLinking CXX executable /home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/.private/imu_integration/lib/imu_integration/estimator_node[0m
-[100%] Built target estimator_node

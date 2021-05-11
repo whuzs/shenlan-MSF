@@ -1,8 +1,0 @@
-prefix=/usr/local
-
-Name: imu_integration
-Description: Description of imu_integration
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

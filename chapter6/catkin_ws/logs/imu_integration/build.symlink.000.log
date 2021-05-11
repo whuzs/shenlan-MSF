@@ -1,8 +1,0 @@
-Symlinking /home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/lib/libutils.so
-Symlinking /home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/lib/libgenerator_activity.so
-Symlinking /home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/lib/libestimator_activity.so
-Symlinking /home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/lib/pkgconfig/imu_integration.pc
-Symlinking /home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/lib/imu_integration/estimator_node
-Symlinking /home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/lib/imu_integration/generator_node
-Symlinking /home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/share/imu_integration/cmake/imu_integrationConfig-version.cmake
-Symlinking /home/bobododo/GNC/MSF/chapter6/catkin_ws/devel/share/imu_integration/cmake/imu_integrationConfig.cmake

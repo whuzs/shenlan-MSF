@@ -1,8 +1,0 @@
-prefix=/home/bobododo/GNC/MSF/chapter6/catkin_ws/src/imu_integration/cmake-build-debug/devel
-
-Name: imu_integration
-Description: Description of imu_integration
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
