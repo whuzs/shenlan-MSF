@@ -32,25 +32,25 @@ PCL_NDT:
 
 全局地图：
 
-![image-20210510112358603](../../shenlan-MSF/images/image-20210510112358603.png)
+![image-20210511143914998](../../images/image-20210511143914998.png)
 
-![image-20210510112847240](../../shenlan-MSF/images/image-20210510112847240.png)
+![image-20210511143947965](../../images/image-20210511143947965.png)
 
 局部地图：
 
-![image-20210510112441011](../../shenlan-MSF/images/image-20210510112441011.png)
+![image-20210511144016036](../../images/image-20210511144016036.png)
 
 PCL_ICP:
 
 全局地图：
 
-![image-20210510151740133](../../shenlan-MSF/images/image-20210510151740133.png)
+![image-20210511144047760](../../images/image-20210511144047760.png)
 
-![image-20210510153208851](../../shenlan-MSF/images/image-20210510153208851.png)
+![image-20210511144107540](../../images/image-20210511144107540.png)
 
 局部地图：
 
-![image-20210510153235351](../../shenlan-MSF/images/image-20210510153235351.png)
+![image-20210511144133241](../../images/image-20210511144133241.png)
 
 黄色线表示真实值GNSS的定位结果，红色线表示激光里程计的定位结果。
 
@@ -70,15 +70,17 @@ ICP和NDT结果对比：
 
 PCL_ICP:
 
-![image-20210510153300556](../../shenlan-MSF/images/image-20210510153300556.png)
+![image-20210511144212608](../../images/image-20210511144212608.png)
 
-![image-20210510153323567](../../shenlan-MSF/images/image-20210510153323567.png)
+![image-20210511144229377](../../images/image-20210511144229377.png)
 
 PCL_NDT:
 
-![image-20210510154038994](../../shenlan-MSF/images/image-20210510154038994.png)
+![image-20210511144309417](../../images/image-20210511144309417.png)
 
-![image-20210510154210109](../../shenlan-MSF/images/image-20210510154210109.png)
+![image-20210511144334089](../../images/image-20210511144334089.png)
+
+
 
 整体轨迹误差运行指令：
 
@@ -92,15 +94,19 @@ ICP和NDT结果对比：
 
 PCL_ICP:
 
-![image-20210510160237278](../../shenlan-MSF/images/image-20210510160237278.png)
+![image-20210511144356809](../../images/image-20210511144356809.png)
 
-![image-20210510160256856](../../shenlan-MSF/images/image-20210510160256856.png)
+![image-20210511144411607](../../images/image-20210511144411607.png)
+
+
 
 PCL_NDT:
 
-![image-20210510154424251](../../shenlan-MSF/images/image-20210510154424251.png)
+![image-20210511144432925](../../images/image-20210511144432925.png)
 
-![image-20210510154445125](../../shenlan-MSF/images/image-20210510154445125.png)
+![image-20210511144446766](../../images/image-20210511144446766.png)
+
+
 
 *3）优秀*
 
@@ -158,6 +164,8 @@ namespace lidar_localization {
 
 #endif
 ```
+
+
 
 
 
@@ -299,9 +307,9 @@ namespace lidar_localization {
 
 全局地图：
 
-![image-20210511112514865](../../shenlan-MSF/images/image-20210511112514865.png)
+![image-20210511144551162](../../images/image-20210511144551162.png)
 
-![image-20210511112323765](../../shenlan-MSF/images/image-20210511112323765.png)
+![image-20210511144611409](../../images/image-20210511144611409.png)
 
 <div class="wiz-table-container" style="position: relative; padding: 0px;" contenteditable="false"><div class="wiz-table-body" contenteditable="false"><table><tbody><tr><td colspan="1" rowspan="1" style="width:197px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">分度统计误差</div></td>    <td colspan="1" rowspan="1" style="width:141px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">max</div></td>    <td colspan="1" rowspan="1" style="width:140px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">mean</div></td>    <td colspan="1" rowspan="1" style="width:142px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">median</div></td>    <td colspan="1" rowspan="1" style="width:140px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">min</div></td>    <td colspan="1" rowspan="1" style="width:137px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">rmse</div></td>    <td colspan="1" rowspan="1" style="width:154px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">sse</div></td>    <td colspan="1" rowspan="1" style="width:143px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">std</div></td></tr><tr><td colspan="1" rowspan="1" style="width:197px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">PCL_NDT</div></td>    <td colspan="1" rowspan="1" style="width:141px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">50.64736</div></td>    <td colspan="1" rowspan="1" style="width:140px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">13.00657</div></td>    <td colspan="1" rowspan="1" style="width:142px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">9.943388</div></td>    <td colspan="1" rowspan="1" style="width:140px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">0.000001</div></td>    <td colspan="1" rowspan="1" style="width:137px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">15.63118</div></td>    <td colspan="1" rowspan="1" style="width:154px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">957544.690757</div></td>    <td colspan="1" rowspan="1" style="width:143px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">8.669656</div></td></tr><tr><td colspan="1" rowspan="1" style="width:197px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">PCL_ICP</div></td>    <td colspan="1" rowspan="1" style="width:141px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">1046.451926</div></td>    <td colspan="1" rowspan="1" style="width:140px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div>195.965895</div></td>    <td colspan="1" rowspan="1" style="width:142px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div>22.540432</div></td>    <td colspan="1" rowspan="1" style="width:140px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div>0.000001</div></td>    <td colspan="1" rowspan="1" style="width:137px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div>344.925646</div></td>    <td colspan="1" rowspan="1" style="width:154px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div style="color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;">992240669.240040</div></td>    <td colspan="1" rowspan="1" style="width:143px;color:rgb(166, 166, 166) !important;background-color:rgb(39, 39, 39) !important;background-image:none !important;"><div>283.850435</div></td></tr><tr><td style="width: 197px; color: rgb(166, 166, 166) !important; background-color: rgb(39, 39, 39) !important; background-image: none !important;"><div>ICP_MANUAL</div></td><td style="width: 141px; color: rgb(166, 166, 166) !important; background-color: rgb(39, 39, 39) !important; background-image: none !important;"><div>5.672072</div></td><td style="width: 140px; color: rgb(166, 166, 166) !important; background-color: rgb(39, 39, 39) !important; background-image: none !important;"><div>2.218061</div></td><td style="width: 142px; color: rgb(166, 166, 166) !important; background-color: rgb(39, 39, 39) !important; background-image: none !important;"><div>1.867250</div></td><td style="width: 140px; color: rgb(166, 166, 166) !important; background-color: rgb(39, 39, 39) !important; background-image: none !important;"><div>0.249019</div></td><td style="width: 137px; color: rgb(166, 166, 166) !important; background-color: rgb(39, 39, 39) !important; background-image: none !important;"><div>2.523776</div></td><td style="width: 154px; color: rgb(166, 166, 166) !important; background-color: rgb(39, 39, 39) !important; background-image: none !important;"><div>286.625133</div></td><td style="width: 143px; color: rgb(166, 166, 166) !important; background-color: rgb(39, 39, 39) !important; background-image: none !important;"><div>1.204016</div></td></tr></tbody></table></div></div>
 
@@ -333,19 +341,7 @@ a.输入目标点云：
 
 b.输入待匹配的点云以及初始位姿R，t
 
-1.初始化![image-20210511140806787](../../shenlan-MSF/images/image-20210511140806787.png) 对待匹配点云中的每个点![image-20210511140934804](../../shenlan-MSF/images/image-20210511140934804.png) ，利用初始位姿转换到目标点云坐标系下的到![image-20210511141154670](../../shenlan-MSF/images/image-20210511141154670.png) 。
-
-2.根据kdtree在目标点云中搜索到离![image-20210511141332135](../../shenlan-MSF/images/image-20210511141332135.png) 最近的点![image-20210511141421560](../../shenlan-MSF/images/image-20210511141421560.png) 计算距离误差![image-20210511141549346](../../shenlan-MSF/images/image-20210511141549346.png) 若![image-20210511141616858](../../shenlan-MSF/images/image-20210511141616858.png) 小于设置的距离上限，执行下一步，否则，对该点舍弃。
-
-3.对找到的每一个点对，计算![image-20210511141850023](../../shenlan-MSF/images/image-20210511141850023.png)
-
-![image-20210511142128673](../../shenlan-MSF/images/image-20210511142128673.png)
-
-4.计算所有点对计算的![image-20210511142247262](../../shenlan-MSF/images/image-20210511142247262.png) 求和，计算状态增量![image-20210511142337409](../../shenlan-MSF/images/image-20210511142337409.png)
-
-![image-20210511142354126](../../shenlan-MSF/images/image-20210511142354126.png)
-
-5.利用增量![image-20210511142457253](../../shenlan-MSF/images/image-20210511142457253.png) 计算新的![image-20210511142521629](../../shenlan-MSF/images/image-20210511142521629.png)，返回第一步计算，直到达到收敛条件或者迭代次数。
+![image-20210511144705870](../../images/image-20210511144705870.png)
 
 DEBUG：
 
