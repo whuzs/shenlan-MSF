@@ -3,9 +3,9 @@
 请使用以下残差模型，推导相应的雅可比，并在F-LOAM或A-LOAM基于该模型，实现解析式求导。
 
 线特征残差：
-$$
-d_{\mathcal{E}}=\frac{\left|\left(\tilde{p}_{i}-p_{b}\right) \times\left(\tilde{p}_{i}-p_{a}\right)\right|}{\left|p_{a}-p_{b}\right|}
-$$
+
+https://latex.codecogs.com/gif.latex?\\d_{\mathcal{E}}=\frac{\left|\left(\tilde{p}_{i}-p_{b}\right) \times\left(\tilde{p}_{i}-p_{a}\right)\right|}{\left|p_{a}-p_{b}\right|}
+
 面特征残差：
 
 评价标准：
