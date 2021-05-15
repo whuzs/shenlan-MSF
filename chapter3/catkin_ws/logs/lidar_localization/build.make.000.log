@@ -1,0 +1,335 @@
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_py[0m
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target topic_tools_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target bond_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target bond_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target topic_tools_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target bond_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target bond_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target bond_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target bond_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_nodejs[0m
+[  0%] Built target pcl_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target topic_tools_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target pcl_ros_gencfg[0m
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target topic_tools_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target pcl_ros_gencfg
+[  0%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nodelet_generate_messages_cpp[0m
+[  0%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_eus[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  0%] Built target nodelet_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[  0%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[  0%] Built target topic_tools_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target nodelet_generate_messages_lisp[0m
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target nodelet_generate_messages_eus
+[35m[1mScanning dependencies of target bond_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target nodelet_topic_tools_gencfg[0m
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[  0%] Built target nodelet_generate_messages_lisp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _lidar_localization_generate_messages_check_deps_saveMap[0m
+[  0%] Built target bond_generate_messages_cpp
+[35m[1mScanning dependencies of target bond_generate_messages_nodejs[0m
+[  0%] Built target nodelet_topic_tools_gencfg
+[  0%] Built target nodelet_generate_messages_nodejs
+[35m[1mScanning dependencies of target nodelet_generate_messages_py[0m
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target pcl_msgs_generate_messages_cpp
+[  0%] Built target pcl_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target pcl_msgs_generate_messages_lisp
+[  0%] Built target bond_generate_messages_nodejs
+[  0%] Built target nodelet_generate_messages_py
+[  0%] Built target _lidar_localization_generate_messages_check_deps_saveMap
+[35m[1mScanning dependencies of target lidar_localization_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target lidar_localization_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target lidar_localization_generate_messages_py[0m
+[35m[1mScanning dependencies of target lidar_localization_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target lidar_localization_generate_messages_eus[0m
+[  1%] [34m[1mGenerating C++ code from lidar_localization/saveMap.srv[0m
+[  3%] [34m[1mGenerating Javascript code from lidar_localization/saveMap.srv[0m
+[  3%] [34m[1mGenerating Lisp code from lidar_localization/saveMap.srv[0m
+[  4%] [34m[1mGenerating Python code from SRV lidar_localization/saveMap[0m
+[  5%] [34m[1mGenerating EusLisp manifest code for lidar_localization[0m
+[  6%] [34m[1mGenerating EusLisp code from lidar_localization/saveMap.srv[0m
+[  6%] Built target lidar_localization_generate_messages_lisp
+[  6%] Built target lidar_localization_generate_messages_nodejs
+[  8%] [34m[1mGenerating Python srv __init__.py for lidar_localization[0m
+[  8%] Built target lidar_localization_generate_messages_py
+[  8%] Built target lidar_localization_generate_messages_cpp
+[35m[1mScanning dependencies of target aloam_mapping_node[0m
+[35m[1mScanning dependencies of target evaluation_node[0m
+[35m[1mScanning dependencies of target aloam_scan_registration_node[0m
+[35m[1mScanning dependencies of target aloam_laser_odometry_node[0m
+[  9%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/evaluation_node.cpp.o[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/evaluation/evaluation_flow.cpp.o[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/models/cloud_filter/voxel_filter.cpp.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/models/registration/icp_registration.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/models/registration/icp_svd_registration.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/models/registration/ndt_registration.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/publisher/cloud_publisher.cpp.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/publisher/odometry_publisher.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/aloam_scan_registration_node.cpp.o[0m
+[ 19%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/aloam_laser_odometry_node.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/aloam_mapping_node.cpp.o[0m
+[ 20%] Built target lidar_localization_generate_messages_eus
+[ 21%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/evaluation/evaluation_flow.cpp.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/sensor_data/gnss_data.cpp.o[0m
+[ 24%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/evaluation/evaluation_flow.cpp.o[0m
+[01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/src/models/registration/icp_svd_registration.cpp:[m[K In member function ‘[01m[Kvoid lidar_localization::ICPSVDRegistration::GetTransform(const std::vector<Eigen::Matrix<float, 3, 1> >&, const std::vector<Eigen::Matrix<float, 3, 1> >&, Eigen::Matrix4f&)[m[K’:
+[01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/src/models/registration/icp_svd_registration.cpp:167:18:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[KN[m[K’ [[01;35m[K-Wunused-variable[m[K]
+     const size_t [01;35m[KN[m[K = xs.size();
+                  [01;35m[K^[m[K
+[ 25%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/models/cloud_filter/voxel_filter.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/sensor_data/imu_data.cpp.o[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/models/cloud_filter/voxel_filter.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/sensor_data/pose_data.cpp.o[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/models/registration/icp_registration.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/sensor_data/velocity_data.cpp.o[0m
+In file included from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac.h:45[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/ransac.h:44[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/registration/icp.h:45[m[K,
+                 from [01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/include/lidar_localization/models/registration/icp_registration.hpp:9[m[K,
+                 from [01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/src/models/registration/icp_registration.cpp:6[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[ 32%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/subscriber/cloud_subscriber.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/subscriber/gnss_subscriber.cpp.o[0m
+[ 34%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/subscriber/imu_subscriber.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/models/registration/icp_registration.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/models/registration/icp_svd_registration.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/models/registration/ndt_registration.cpp.o[0m
+[ 39%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/subscriber/odometry_subscriber.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/subscriber/velocity_subscriber.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/models/registration/icp_svd_registration.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/models/registration/ndt_registration.cpp.o[0m
+[01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/src/models/registration/icp_svd_registration.cpp:[m[K In member function ‘[01m[Kvoid lidar_localization::ICPSVDRegistration::GetTransform(const std::vector<Eigen::Matrix<float, 3, 1> >&, const std::vector<Eigen::Matrix<float, 3, 1> >&, Eigen::Matrix4f&)[m[K’:
+[01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/src/models/registration/icp_svd_registration.cpp:167:18:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[KN[m[K’ [[01;35m[K-Wunused-variable[m[K]
+     const size_t [01;35m[KN[m[K = xs.size();
+                  [01;35m[K^[m[K
+[ 43%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/tf_listener/tf_lisener.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/evaluation_node.dir/src/tools/file_manager.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/publisher/cloud_publisher.cpp.o[0m
+[01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/src/models/registration/icp_svd_registration.cpp:[m[K In member function ‘[01m[Kvoid lidar_localization::ICPSVDRegistration::GetTransform(const std::vector<Eigen::Matrix<float, 3, 1> >&, const std::vector<Eigen::Matrix<float, 3, 1> >&, Eigen::Matrix4f&)[m[K’:
+[01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/src/models/registration/icp_svd_registration.cpp:167:18:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[KN[m[K’ [[01;35m[K-Wunused-variable[m[K]
+     const size_t [01;35m[KN[m[K = xs.size();
+                  [01;35m[K^[m[K
+In file included from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac.h:45[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/ransac.h:44[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/registration/icp.h:45[m[K,
+                 from [01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/include/lidar_localization/models/registration/icp_registration.hpp:9[m[K,
+                 from [01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/src/models/registration/icp_registration.cpp:6[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[ 47%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/publisher/odometry_publisher.cpp.o[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/evaluation/evaluation_flow.cpp.o[0m
+[ 49%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/models/cloud_filter/voxel_filter.cpp.o[0m
+In file included from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac.h:45[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/ransac.h:44[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/registration/icp.h:45[m[K,
+                 from [01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/include/lidar_localization/models/registration/icp_registration.hpp:9[m[K,
+                 from [01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/src/models/registration/icp_registration.cpp:6[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[ 50%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/publisher/cloud_publisher.cpp.o[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/sensor_data/gnss_data.cpp.o[0m
+[ 52%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/sensor_data/imu_data.cpp.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/sensor_data/pose_data.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/sensor_data/velocity_data.cpp.o[0m
+[ 56%] [32m[1mLinking CXX executable /home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/lidar_localization/evaluation_node[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/subscriber/cloud_subscriber.cpp.o[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/subscriber/gnss_subscriber.cpp.o[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/models/registration/icp_registration.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/models/registration/icp_svd_registration.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/subscriber/imu_subscriber.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/subscriber/odometry_subscriber.cpp.o[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/models/registration/ndt_registration.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/subscriber/velocity_subscriber.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/publisher/odometry_publisher.cpp.o[0m
+[01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/src/models/registration/icp_svd_registration.cpp:[m[K In member function ‘[01m[Kvoid lidar_localization::ICPSVDRegistration::GetTransform(const std::vector<Eigen::Matrix<float, 3, 1> >&, const std::vector<Eigen::Matrix<float, 3, 1> >&, Eigen::Matrix4f&)[m[K’:
+[01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/src/models/registration/icp_svd_registration.cpp:167:18:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[KN[m[K’ [[01;35m[K-Wunused-variable[m[K]
+     const size_t [01;35m[KN[m[K = xs.size();
+                  [01;35m[K^[m[K
+[ 67%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/tf_listener/tf_lisener.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/sensor_data/gnss_data.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/sensor_data/imu_data.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/aloam_laser_odometry_node.dir/src/tools/file_manager.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/sensor_data/pose_data.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/sensor_data/velocity_data.cpp.o[0m
+[ 74%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/subscriber/cloud_subscriber.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/subscriber/gnss_subscriber.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/publisher/cloud_publisher.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/publisher/odometry_publisher.cpp.o[0m
+[ 79%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/subscriber/imu_subscriber.cpp.o[0m
+[ 79%] Built target evaluation_node
+[ 80%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/subscriber/odometry_subscriber.cpp.o[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/subscriber/velocity_subscriber.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/tf_listener/tf_lisener.cpp.o[0m
+In file included from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac.h:45[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/ransac.h:44[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/registration/icp.h:45[m[K,
+                 from [01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/include/lidar_localization/models/registration/icp_registration.hpp:9[m[K,
+                 from [01m[K/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/src/models/registration/icp_registration.cpp:6[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[ 83%] [32mBuilding CXX object CMakeFiles/aloam_scan_registration_node.dir/src/tools/file_manager.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/sensor_data/gnss_data.cpp.o[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/sensor_data/imu_data.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/sensor_data/pose_data.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/sensor_data/velocity_data.cpp.o[0m
+[35m[1mScanning dependencies of target lidar_localization_generate_messages[0m
+[ 89%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/subscriber/cloud_subscriber.cpp.o[0m
+[ 89%] Built target lidar_localization_generate_messages
+[ 90%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/subscriber/gnss_subscriber.cpp.o[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/subscriber/imu_subscriber.cpp.o[0m
+[ 93%] [32m[1mLinking CXX executable /home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/lidar_localization/aloam_laser_odometry_node[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/subscriber/odometry_subscriber.cpp.o[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/subscriber/velocity_subscriber.cpp.o[0m
+[ 96%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/tf_listener/tf_lisener.cpp.o[0m
+[ 97%] [32mBuilding CXX object CMakeFiles/aloam_mapping_node.dir/src/tools/file_manager.cpp.o[0m
+[ 98%] [32m[1mLinking CXX executable /home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/lidar_localization/aloam_scan_registration_node[0m
+[100%] [32m[1mLinking CXX executable /home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/lidar_localization/aloam_mapping_node[0m
+[100%] Built target aloam_laser_odometry_node
+[100%] Built target aloam_scan_registration_node
+[100%] Built target aloam_mapping_node

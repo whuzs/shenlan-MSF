@@ -1,0 +1,1 @@
+/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/share/gennodejs/ros/lidar_localization/_index.js
