@@ -4,7 +4,7 @@
 
 线特征残差：
 
-https://latex.codecogs.com/gif.latex?\\d_{\mathcal{E}}=\frac{\left|\left(\tilde{p}_{i}-p_{b}\right) \times\left(\tilde{p}_{i}-p_{a}\right)\right|}{\left|p_{a}-p_{b}\right|}
+![image-20210515224529065](../../images/image-20210515224529065.png)
 
 面特征残差：
 
