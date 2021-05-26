@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/share/common-lisp/ros/lidar_localization/srv/saveMap.lisp"
+  "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/share/common-lisp/ros/lidar_localization/srv/saveMap.lisp"
   "CMakeFiles/lidar_localization_generate_messages_lisp"
 )
 

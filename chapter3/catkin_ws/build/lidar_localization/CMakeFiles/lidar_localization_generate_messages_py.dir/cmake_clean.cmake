@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/python2.7/dist-packages/lidar_localization/srv/__init__.py"
-  "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/python2.7/dist-packages/lidar_localization/srv/_saveMap.py"
+  "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/python2.7/dist-packages/lidar_localization/srv/__init__.py"
+  "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/python2.7/dist-packages/lidar_localization/srv/_saveMap.py"
   "CMakeFiles/lidar_localization_generate_messages_py"
 )
 

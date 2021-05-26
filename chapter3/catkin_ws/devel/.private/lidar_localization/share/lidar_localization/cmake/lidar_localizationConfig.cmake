@@ -67,14 +67,14 @@ set(lidar_localization_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("TRUE" STREQUAL "TRUE")
-  set(lidar_localization_SOURCE_PREFIX /home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization)
-  set(lidar_localization_DEVEL_PREFIX /home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization)
+  set(lidar_localization_SOURCE_PREFIX /home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/src/lidar_localization)
+  set(lidar_localization_DEVEL_PREFIX /home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization)
   set(lidar_localization_INSTALL_PREFIX "")
   set(lidar_localization_PREFIX ${lidar_localization_DEVEL_PREFIX})
 else()
   set(lidar_localization_SOURCE_PREFIX "")
   set(lidar_localization_DEVEL_PREFIX "")
-  set(lidar_localization_INSTALL_PREFIX /home/bobododo/GNC/MSF/chapter3/catkin_ws/install)
+  set(lidar_localization_INSTALL_PREFIX /home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install)
   set(lidar_localization_PREFIX ${lidar_localization_INSTALL_PREFIX})
 endif()
 
@@ -91,9 +91,9 @@ endif()
 # flag project as catkin-based to distinguish if a find_package()-ed project is a catkin project
 set(lidar_localization_FOUND_CATKIN_PROJECT TRUE)
 
-if(NOT "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/include " STREQUAL " ")
+if(NOT "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/include " STREQUAL " ")
   set(lidar_localization_INCLUDE_DIRS "")
-  set(_include_dirs "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/include")
+  set(_include_dirs "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/include")
   if(NOT " " STREQUAL " ")
     set(_report "Check the issue tracker '' and consider creating a ticket if the problem has not been reported yet.")
   elseif(NOT " " STREQUAL " ")
@@ -110,7 +110,7 @@ if(NOT "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localizat
         message(FATAL_ERROR "Project 'lidar_localization' specifies '${idir}' as an include dir, which is not found.  It does not exist in '${include}'.  ${_report}")
       endif()
     else()
-      message(FATAL_ERROR "Project 'lidar_localization' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/${idir}'.  ${_report}")
+      message(FATAL_ERROR "Project 'lidar_localization' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/src/lidar_localization/${idir}'.  ${_report}")
     endif()
     _list_append_unique(lidar_localization_INCLUDE_DIRS ${include})
   endforeach()
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib;/home/bobododo/GNC/MSF/chapter3/catkin_ws/install/lib;/home/bobododo/GNC/UAV/xtdrone/catkin_ws/devel/lib;/home/bobododo/GNC/SLAM/VINS/catkin_ws/devel/lib;/home/bobododo/GNC/SLAM/slam/catkin_ws/devel/lib;/home/bobododo/GNC/EmbededSystem/MYNT-EYE/MYNT-EYE-S-SDK-master/wrappers/ros/devel/lib;/opt/ros/melodic/lib)
+    foreach(path /home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib;/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install/lib;/opt/ros/melodic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

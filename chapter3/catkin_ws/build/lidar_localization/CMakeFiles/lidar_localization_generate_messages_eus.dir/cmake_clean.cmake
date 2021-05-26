@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/share/roseus/ros/lidar_localization/manifest.l"
-  "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/share/roseus/ros/lidar_localization/srv/saveMap.l"
+  "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/share/roseus/ros/lidar_localization/manifest.l"
+  "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/share/roseus/ros/lidar_localization/srv/saveMap.l"
   "CMakeFiles/lidar_localization_generate_messages_eus"
 )
 

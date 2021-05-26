@@ -1,8 +1,8 @@
-# Install script for directory: /home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization
+# Install script for directory: /home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/src/lidar_localization
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/bobododo/GNC/MSF/chapter3/catkin_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -37,6 +37,11 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
+# Set default install directory permissions.
+if(NOT DEFINED CMAKE_OBJDUMP)
+  set(CMAKE_OBJDUMP "/usr/bin/objdump")
+endif()
+
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   
       if (NOT EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}")
@@ -49,134 +54,134 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/bobododo/GNC/MSF/chapter3/catkin_ws/install/_setup_util.py")
+   "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install/_setup_util.py")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/bobododo/GNC/MSF/chapter3/catkin_ws/install" TYPE PROGRAM FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/_setup_util.py")
+file(INSTALL DESTINATION "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install" TYPE PROGRAM FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/_setup_util.py")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/bobododo/GNC/MSF/chapter3/catkin_ws/install/env.sh")
+   "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install/env.sh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/bobododo/GNC/MSF/chapter3/catkin_ws/install" TYPE PROGRAM FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/env.sh")
+file(INSTALL DESTINATION "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install" TYPE PROGRAM FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/env.sh")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/bobododo/GNC/MSF/chapter3/catkin_ws/install/setup.bash;/home/bobododo/GNC/MSF/chapter3/catkin_ws/install/local_setup.bash")
+   "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install/setup.bash;/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install/local_setup.bash")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/bobododo/GNC/MSF/chapter3/catkin_ws/install" TYPE FILE FILES
-    "/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/setup.bash"
-    "/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/local_setup.bash"
+file(INSTALL DESTINATION "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install" TYPE FILE FILES
+    "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/setup.bash"
+    "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/local_setup.bash"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/bobododo/GNC/MSF/chapter3/catkin_ws/install/setup.sh;/home/bobododo/GNC/MSF/chapter3/catkin_ws/install/local_setup.sh")
+   "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install/setup.sh;/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install/local_setup.sh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/bobododo/GNC/MSF/chapter3/catkin_ws/install" TYPE FILE FILES
-    "/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/setup.sh"
-    "/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/local_setup.sh"
+file(INSTALL DESTINATION "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install" TYPE FILE FILES
+    "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/setup.sh"
+    "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/local_setup.sh"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/bobododo/GNC/MSF/chapter3/catkin_ws/install/setup.zsh;/home/bobododo/GNC/MSF/chapter3/catkin_ws/install/local_setup.zsh")
+   "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install/setup.zsh;/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install/local_setup.zsh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/bobododo/GNC/MSF/chapter3/catkin_ws/install" TYPE FILE FILES
-    "/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/setup.zsh"
-    "/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/local_setup.zsh"
+file(INSTALL DESTINATION "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install" TYPE FILE FILES
+    "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/setup.zsh"
+    "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/local_setup.zsh"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/bobododo/GNC/MSF/chapter3/catkin_ws/install/.rosinstall")
+   "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install/.rosinstall")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/bobododo/GNC/MSF/chapter3/catkin_ws/install" TYPE FILE FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/.rosinstall")
+file(INSTALL DESTINATION "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/install" TYPE FILE FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/.rosinstall")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lidar_localization/srv" TYPE FILE FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/srv/saveMap.srv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lidar_localization/srv" TYPE FILE FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/src/lidar_localization/srv/saveMap.srv")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lidar_localization/cmake" TYPE FILE FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/lidar_localization-msg-paths.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lidar_localization/cmake" TYPE FILE FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/lidar_localization-msg-paths.cmake")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/include/lidar_localization")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/include/lidar_localization")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/roseus/ros" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/share/roseus/ros/lidar_localization")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/roseus/ros" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/share/roseus/ros/lidar_localization")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/common-lisp/ros" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/share/common-lisp/ros/lidar_localization")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/common-lisp/ros" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/share/common-lisp/ros/lidar_localization")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gennodejs/ros" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/share/gennodejs/ros/lidar_localization")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/gennodejs/ros" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/share/gennodejs/ros/lidar_localization")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  execute_process(COMMAND "/usr/bin/python2" -m compileall "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/python2.7/dist-packages/lidar_localization")
+  execute_process(COMMAND "/usr/bin/python2" -m compileall "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/python2.7/dist-packages/lidar_localization")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python2.7/dist-packages" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/python2.7/dist-packages/lidar_localization")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/python2.7/dist-packages" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/python2.7/dist-packages/lidar_localization")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/lidar_localization.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/lidar_localization.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lidar_localization/cmake" TYPE FILE FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/lidar_localization-msg-extras.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lidar_localization/cmake" TYPE FILE FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/lidar_localization-msg-extras.cmake")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lidar_localization/cmake" TYPE FILE FILES
-    "/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/lidar_localizationConfig.cmake"
-    "/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/lidar_localizationConfig-version.cmake"
+    "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/lidar_localizationConfig.cmake"
+    "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/catkin_generated/installspace/lidar_localizationConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lidar_localization" TYPE FILE FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lidar_localization" TYPE FILE FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/src/lidar_localization/package.xml")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -186,7 +191,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/lidar_localization/aloam_scan_registration_node"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/lidar_localization" TYPE EXECUTABLE FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/lidar_localization/aloam_scan_registration_node")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/lidar_localization" TYPE EXECUTABLE FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/lidar_localization/aloam_scan_registration_node")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/lidar_localization/aloam_scan_registration_node" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/lidar_localization/aloam_scan_registration_node")
     file(RPATH_CHANGE
@@ -206,7 +211,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/lidar_localization/aloam_laser_odometry_node"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/lidar_localization" TYPE EXECUTABLE FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/lidar_localization/aloam_laser_odometry_node")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/lidar_localization" TYPE EXECUTABLE FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/lidar_localization/aloam_laser_odometry_node")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/lidar_localization/aloam_laser_odometry_node" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/lidar_localization/aloam_laser_odometry_node")
     file(RPATH_CHANGE
@@ -226,7 +231,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/lidar_localization/aloam_mapping_node"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/lidar_localization" TYPE EXECUTABLE FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/lidar_localization/aloam_mapping_node")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/lidar_localization" TYPE EXECUTABLE FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/lidar_localization/aloam_mapping_node")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/lidar_localization/aloam_mapping_node" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/lidar_localization/aloam_mapping_node")
     file(RPATH_CHANGE
@@ -246,7 +251,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/lidar_localization/evaluation_node"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/lidar_localization" TYPE EXECUTABLE FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/lidar_localization/evaluation_node")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/lidar_localization" TYPE EXECUTABLE FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/lidar_localization/lib/lidar_localization/evaluation_node")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/lidar_localization/evaluation_node" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/lidar_localization/evaluation_node")
     file(RPATH_CHANGE
@@ -260,24 +265,24 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/lidar_localization" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/include/" FILES_MATCHING REGEX "/[^/]*\\.h$" REGEX "/\\.svn$" EXCLUDE)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/lidar_localization" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/src/lidar_localization/include/" FILES_MATCHING REGEX "/[^/]*\\.h$" REGEX "/\\.svn$" EXCLUDE)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lidar_localization/launch" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/launch/" FILES_MATCHING REGEX "/[^/]*\\.launch$")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lidar_localization/launch" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/src/lidar_localization/launch/" FILES_MATCHING REGEX "/[^/]*\\.launch$")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lidar_localization/config" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/config/" FILES_MATCHING REGEX "/[^/]*\\.yaml$")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lidar_localization/config" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/src/lidar_localization/config/" FILES_MATCHING REGEX "/[^/]*\\.yaml$")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lidar_localization/rviz" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/chapter3/catkin_ws/src/lidar_localization/rviz/" FILES_MATCHING REGEX "/[^/]*\\.rviz$")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lidar_localization/rviz" TYPE DIRECTORY FILES "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/src/lidar_localization/rviz/" FILES_MATCHING REGEX "/[^/]*\\.rviz$")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/gtest/cmake_install.cmake")
+  include("/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/gtest/cmake_install.cmake")
 
 endif()
 
@@ -289,5 +294,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/bobododo/GNC/MSF/chapter3/catkin_ws/build/lidar_localization/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/build/lidar_localization/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

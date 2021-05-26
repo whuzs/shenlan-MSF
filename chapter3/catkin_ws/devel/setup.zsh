@@ -1,1 +1,1 @@
-/home/bobododo/GNC/MSF/chapter3/catkin_ws/devel/.private/catkin_tools_prebuild/setup.zsh
+/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/catkin_tools_prebuild/setup.zsh

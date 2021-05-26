@@ -1,0 +1,1 @@
+/home/bobododo/GNC/MSF/shenlan-MSF/chapter4/catkin_ws/devel/.private/lidar_localization/share/gennodejs/ros/lidar_localization/srv/optimizeMap.js

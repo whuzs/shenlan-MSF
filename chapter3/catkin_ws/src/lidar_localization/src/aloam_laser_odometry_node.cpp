@@ -378,7 +378,7 @@ int main(int argc, char **argv)
                                 s = (cornerPointsSharp->points[i].intensity - int(cornerPointsSharp->points[i].intensity)) / SCAN_PERIOD;
                             else
                                 s = 1.0;
-                            ceres::CostFunction *cost_function = LidarEdgeFactor::Create(curr_point, last_point_a, last_point_b, s);
+                            ceres::CostFunction *cost_function = new LidarEdgeAnalyticCostFunction(curr_point, last_point_a, last_point_b, s);
                             problem.AddResidualBlock(cost_function, loss_function, para_q, para_t);
                             corner_correspondence++;
                         }
@@ -461,13 +461,13 @@ int main(int argc, char **argv)
                                 Eigen::Vector3d curr_point(surfPointsFlat->points[i].x,
                                                             surfPointsFlat->points[i].y,
                                                             surfPointsFlat->points[i].z);
-                                Eigen::Vector3d last_point_a(laserCloudSurfLast->points[closestPointInd].x,
+                                Eigen::Vector3d last_point_j(laserCloudSurfLast->points[closestPointInd].x,
                                                                 laserCloudSurfLast->points[closestPointInd].y,
                                                                 laserCloudSurfLast->points[closestPointInd].z);
-                                Eigen::Vector3d last_point_b(laserCloudSurfLast->points[minPointInd2].x,
+                                Eigen::Vector3d last_point_l(laserCloudSurfLast->points[minPointInd2].x,
                                                                 laserCloudSurfLast->points[minPointInd2].y,
                                                                 laserCloudSurfLast->points[minPointInd2].z);
-                                Eigen::Vector3d last_point_c(laserCloudSurfLast->points[minPointInd3].x,
+                                Eigen::Vector3d last_point_m(laserCloudSurfLast->points[minPointInd3].x,
                                                                 laserCloudSurfLast->points[minPointInd3].y,
                                                                 laserCloudSurfLast->points[minPointInd3].z);
 
@@ -476,7 +476,7 @@ int main(int argc, char **argv)
                                     s = (surfPointsFlat->points[i].intensity - int(surfPointsFlat->points[i].intensity)) / SCAN_PERIOD;
                                 else
                                     s = 1.0;
-                                ceres::CostFunction *cost_function = LidarPlaneFactor::Create(curr_point, last_point_a, last_point_b, last_point_c, s);
+                                ceres::CostFunction *cost_function = new LidarPlaneAnalyticCostFunction(curr_point, last_point_j, last_point_l, last_point_m, s);
                                 problem.AddResidualBlock(cost_function, loss_function, para_q, para_t);
                                 plane_correspondence++;
                             }
