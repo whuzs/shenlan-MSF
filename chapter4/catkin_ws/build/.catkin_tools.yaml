@@ -1,6 +1,0 @@
-devel_space: /home/bobododo/GNC/MSF/shenlan-MSF/chapter4/catkin_ws/devel
-install: true
-install_space: /home/bobododo/GNC/MSF/shenlan-MSF/chapter4/catkin_ws/install
-profile: default
-source_space: /home/bobododo/GNC/MSF/shenlan-MSF/chapter4/catkin_ws/src
-workspace: /home/bobododo/GNC/MSF/shenlan-MSF/chapter4/catkin_ws

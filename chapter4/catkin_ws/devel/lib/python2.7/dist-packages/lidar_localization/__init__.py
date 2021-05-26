@@ -1,1 +1,0 @@
-/home/bobododo/GNC/MSF/shenlan-MSF/chapter4/catkin_ws/devel/.private/lidar_localization/lib/python2.7/dist-packages/lidar_localization/__init__.py
