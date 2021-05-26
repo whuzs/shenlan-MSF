@@ -1,1 +1,0 @@
-/home/bobododo/GNC/MSF/shenlan-MSF/chapter3/catkin_ws/devel/.private/catkin_tools_prebuild/env.sh
