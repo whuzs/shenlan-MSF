@@ -34,15 +34,14 @@ Eigen::Matrix<double,3,3> skew(Eigen::Matrix<double,3,1>& mat_in){
 }
 
 // EdgeAnalyticCostFunction
+///解析式求导
 class LidarEdgeAnalyticCostFunction : public ceres::SizedCostFunction<3, 4, 3> {
 public:
     LidarEdgeAnalyticCostFunction(Eigen::Vector3d curr_point_, Eigen::Vector3d last_point_a_,
 								Eigen::Vector3d last_point_b_, double s_)
 		: curr_point(curr_point_), last_point_a(last_point_a_), last_point_b(last_point_b_), s(s_) {}
 
-  	virtual bool Evaluate(double const* const* parameters,
-                        double* residuals,
-                        double** jacobians) const 
+  	virtual bool Evaluate(double const* const* parameters, double* residuals, double** jacobians) const
 	{
 		Eigen::Map<const Eigen::Quaterniond> q_last_curr(parameters[0]);
 		Eigen::Map<const Eigen::Vector3d> t_last_curr(parameters[1]);

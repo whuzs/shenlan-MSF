@@ -9,7 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a110c7bb-e1c4-406b-b3a3-62df6717507b" name="Default Changelist" comment="" />
+    <list default="true" id="a110c7bb-e1c4-406b-b3a3-62df6717507b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lidar_localization/include/lidar_localization/models/loam/aloam_factor.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/lidar_localization/include/lidar_localization/models/loam/aloam_factor.hpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/src/lidar_localization/cmake-build-debug/" />
     <ignored path="/usr/src/googletest/googletest/CMakeFiles/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,20 +26,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lidar_localization/src/aloam_laser_odometry_node.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9449">
-              <caret line="482" column="61" selection-start-line="482" selection-start-column="61" selection-end-line="482" selection-end-column="61" />
+            <state relative-caret-position="13370">
+              <caret line="382" column="69" selection-start-line="382" selection-start-column="69" selection-end-line="382" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lidar_localization/include/lidar_localization/models/loam/aloam_factor.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+              <folding>
+                <element signature="e#309#334#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lidar_localization/include/lidar_localization/models/loam/aloam_factor.hpp">
+        <entry file="file:///usr/local/include/ceres/sized_cost_function.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3220">
-              <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
+            <state relative-caret-position="1575">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -53,6 +68,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lidar_localization/include/lidar_localization/models/loam/aloam_factor.hpp" />
+      </list>
+    </option>
+  </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -64,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="298" />
     <option name="y" value="114" />
     <option name="width" value="1389" />
@@ -76,14 +98,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lidar_localization/CMakeLists.txt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../chapter7/catkin_ws" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -112,17 +134,20 @@
       <workItem from="1622001263669" duration="30000" />
       <workItem from="1622001323986" duration="18000" />
       <workItem from="1622009598795" duration="1562000" />
-      <workItem from="1622012438730" duration="844000" />
+      <workItem from="1622012438730" duration="1497000" />
+      <workItem from="1622014308253" duration="4034000" />
+      <workItem from="1622117382668" duration="3749000" />
+      <workItem from="1622185627185" duration="52000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2454000" />
+    <option name="totallyTimeSpent" value="10942000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="7" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25958866" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2712618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -133,10 +158,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.35824177" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.35824177" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="CMake" order="11" weight="0.33151582" />
+      <window_info active="true" anchor="bottom" id="CMake" order="11" visible="true" weight="0.032967035" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -149,15 +174,25 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/lidar_localization/src/aloam_laser_odometry_node.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9449">
-          <caret line="482" column="61" selection-start-line="482" selection-start-column="61" selection-end-line="482" selection-end-column="61" />
+        <state relative-caret-position="13370">
+          <caret line="382" column="69" selection-start-line="382" selection-start-column="69" selection-end-line="382" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/ceres/sized_cost_function.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lidar_localization/include/lidar_localization/models/loam/aloam_factor.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3220">
-          <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
+        <state relative-caret-position="525">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+          <folding>
+            <element signature="e#309#334#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
